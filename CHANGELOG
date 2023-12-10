@@ -1,0 +1,42 @@
+CleanHome v0.8
+--------------
+- Plugins have access to dirs, which will be processed
+- Plugins have access to other plugins 
+- ignore symlinks since they could build a loop.
+- SimpleDB Plugin has special getFileInfo method 
+  for providng acess to data by other plugins 
+- BrowserCall-Plugin opens homepage, if set in SimpleDB
+- Added RecurseInto Plugin: 
+    If dir is found, which is known to hold data of a program collection like .local/.kde, recurse into this
+    Info is marked within SimpleDB Description containing "RECURSIVE" as keyword
+- simpledb.csv updated (and has RECURSIVE keyword)
+
+CleanHome v0.7 
+--------------
+- Fixed: Empty lines in simpledb.csv causing trouble
+
+CleanHome v0.6
+---------------
+- Added DiskUsage Plugin
+- Added DpkgInstallState Plugin
+- Loading Plugins doesnt show detailed failures - added --debugPluginLoad option
+- minor fixes at the homepage (google app engine stuff) 
+  like adding a download link for the csv version of the database
+
+cleanhome v0.5
+---------------
+- added Remote upload and retrieval of SimpleDB entries
+  This is done via the Google App Engine "chome" project.
+- As a sideeffect, CleanHome has a webinterface for this database (view and submit)
+- fixed Plugin ViewItem Warnings about possible undef filehandels
+- The SVN holds the Google App Engine source as well as the Perl script
+  file-releases will just contain the CleanHome programm itself
+
+cleanhome v0.2
+---------------
+- added missing simpledb.csv
+- added a counter of left items to process
+- added Plugin ViewItem - listing content of file/directory
+- added a hint to action list, that <ENTER> would skip current item
+
+Thanks to Jozef Riha for hints/suggestions

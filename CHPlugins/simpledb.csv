@@ -1,0 +1,235 @@
+# Simple database for CleanHome by Henning Mersch <mail@henning-mersch.de>
+# Version: v0.8
+# Homepage: http://cleanhome.sourceforge.net 
+# Format: 
+# File|AppName|AppDescription|AppHomepage|Contributor
+# Please send new entries via email to cleanhome@hmersch.de - any contribution is welcome!
+.adobe|Adobe Product Family|All Adobe Products like Flash and Acrobat||Henning Mersch
+.aspell.de.prepl|ASpell|||Henning Mersch
+.aspell.en.prepl|ASpell|||Henning Mersch
+.azureus|Azureus|P2P Application, Bittorrent|azureus.sf.net|Henning Mersch
+.bash_profile|Bash|Bash profile||Henning Mersch
+.camstream|CamStream|Collection of tools for webcams and other video-devices|http://www.smcc.demon.nl/camstream/|Henning Mersch
+.castle-combat.config|CastleCombat|Clone of Rampart|http://user.cs.tu-berlin.de/~karlb/castle-combat/|Henning Mersch
+.claws-mail|Claws Mail|Mail program|http://www.claws-mail.org/|Henning Mersch
+.com.zerog.registry.xml|Poseidon|UML Tool||Henning Mersch
+.conkyrc|Conky|Conky is a free, light-weight system monitor for X|http://conky.sourceforge.net/|Henning Mersch
+.cups|Cups|Cups default printer config||Henning Mersch
+.dbus|DBus|System||Henning Mersch
+.devilspie.xml|Devilspie|Window matching util|http://www.burtonini.com/blog/computers/devilspie|Henning Mersch
+.dvdcss|libdvdcss|Spool Dir of DVD Decoding by libdvdcss||Henning Mersch
+.emacs|Emacs| The GNU Emacs editor - config dir||Henning Mersch
+.enigmarc2|Enigma|Email Encryption Plugin e.g. for thunderbird||Henning Mersch
+.ethereal|Ethereal|Ethernet sniffer||Henning Mersch
+.fbhighlevelshistory|Frozen Bubble|||Henning Mersch
+.fbrc|Frozen Bubble|||Henning Mersch
+.fontconfig|Fontconfig|||Henning Mersch
+.gammurc|Gammy|Phone connectivity|http://www.gammu.org/wiki/index.php?title=Gammu:Main_Page|Henning Mersch
+.gconf|Various|RECURSIVE Anybody able to write a special plugin?||Henning Mersch
+.gdbinit|GDB|Config for GNU Debugger's search path||Henning Mersch
+.gnokii-errors|gnokii|gnokii provides tools and a user space driver for use with mobile phones|http://www.gnokii.org/|Henning Mersch
+.gnome2|Gnome|Desktop management|http://www.gnome.org/|Henning Mersch
+.gnupg|GnuPG|GPG - ecryption system e.g. for mails||Henning Mersch
+.googleearth|Google Earth|Google Earth config files||Henning Mersch
+.grisbirc|Grisbi|[no eng version]Grisbi ist ein Programm für die Verwaltung von Finanzen. Config file|http://www.grisbi.org|Henning Mersch
+.gtkrc-2.0-kde|GTK|GTK config file, version specific||Henning Mersch
+.ICEauthority|Xauthority|used by X system for authentification||Henning Mersch
+.install4j|Install4J|a powerful multi-platform Java installer builder|http://www.ej-technologies.com/products/install4j/overview.html|Henning Mersch
+.ispell_default|ISpell|Config for ISpell||Henning Mersch
+.ispell_ngerman|ISpell||Description:config for german dictionary of ISpell|Henning Mersch
+.jdev_jdk|JDeveloper|Oracle Java Development IDE config files||Henning Mersch
+.k-yamo.rc|K-Yamo|handle MP3- and Oggvorbis-tags.|http://k-yamo.sourceforge.net/|Henning Mersch
+.kde|KDE|RECURSIVE KDE Desktop Environment - Anybody able to write a special plugin?|http://www.kde.org/|Henning Mersch
+.kedpm|KED passwort Manager|Passwort Manager|http://kedpm.sourceforge.net/|Henning Mersch
+.kxmame|kxmame|Mame frontend for KDE|http://www.kde-apps.org/content/show.php?content=28270|Henning Mersch
+.labviewrc|LabView|Config file for LabView||Henning Mersch
+.lesshst|less|unix command less history file||Henning Mersch
+.local|Various|RECURSIVE Anybody able to write a special plugin?||Henning Mersch
+.mailcap|Java Webstart|Java Webstart config file||Henning Mersch
+.mc|MidnightCommander|Config files for this file manager - nothon commander clone||Henning Mersch
+.mcoprc|MCOP|Multimedia Communication Protocol - part of KDE||Henning Mersch
+.mime.types|Netscape mime type definitions|||Henning Mersch
+.mixxxtrack.xml|Mixxx|DJ Software|http://www.mixxx.org/|Henning Mersch
+.mozilla-thunderbird|Thunderbird|Thunderbird config dir||Henning Mersch
+.mplayer|Mplayer|Multimedia player|http://www.mplayerhq.hu/|Henning Mersch
+.nautilus|Nautilus|file manager and graphical shell for GNOME||Henning Mersch
+.ncftp|NcFTP client|||Henning Mersch
+.netbeans-registration|Netbeans|Netbeans registration Info|http://www.netbeans.org/|Henning Mersch
+.openoffice.org2|OpenOffice|Openoffice config files||Henning Mersch
+.polypaudio-cookie|Polyaudio|networked sound server||Henning Mersch
+.psi|PSI|Jabber client|psi.sf.net|Henning Mersch
+.quodlibet|quodlibet|audio library manager and player for GTK+||Henning Mersch
+.sane|Sane|Scanner server program (client is xsane)||Henning Mersch
+.scribus|Scribus|Layout program||Henning Mersch
+.Skype|Skype|VoIP program - config data|www.skype.com|Henning Mersch
+.ssh|SSH|SSH config dir||Henning Mersch
+.subversion|SVN|Subversion config data||Henning Mersch
+.sversionrc|openoffice|Old config file of Openoffice||Henning Mersch
+.synaptic|Synaptic|Package management program||Henning Mersch
+.TeXmacs|Texmacs|LaTex Frontend|http://www.texmacs.org/|Henning Mersch
+.tkcvs|TkCVS|CVS Frontend (also SVN) config files||Henning Mersch
+.tsclient|TSClient|Terminal Server client - accessing Windows Systems||Henning Mersch
+.update-notifier|KDE|KDE plugin of Adept (package management) config file||Henning Mersch
+.urlview|urlview|urlview - URL extractor/launcher|man page|Henning Mersch
+.viminfo|VIM|ViImproved state file|vim.org|Henning Mersch
+.VirtualBox|VirtualBox|Virtual Box config files - OS emulation||Henning Mersch
+.vtclrc|VTcl|Visual Tcl is a freely-available, high-quality application development environment|http://vtcl.sourceforge.net/|Henning Mersch
+.webcamrc|Webcam|webcam - image grabber and uploader||Henning Mersch
+.Xauthority|X11|X auth system||Henning Mersch
+.xchat2|XChat|IRC client||Henning Mersch
+.xcoralrc|Xcoral|a multiwindow mouse-based text editor |http://xcoral.free.fr/|Henning Mersch
+.xine|Xine|Media Player||Henning Mersch
+.xmame|XMame|Emulator frontend||Henning Mersch
+.Xmodmap|X11|modify keymap on login||Henning Mersch
+.xscreensaver|XScreensaver|Config of Screensaver||Henning Mersch
+.xtalkrc|XTalk|XTalk config||Henning Mersch
+.zim.cache|ZIM|Desktop Wiki||Henning Mersch
+.asterisk_history|Asterisk|The Open Source PBX & Telephony Platform|http://www.asterisk.org/|Daniel Lynes
+.debuglog|Pixel|RGB, CMYK and HDR image editing and photo retouching for Windows, Mac OSX, Linux and others|http://www.kanzelsberger.com/pixel/|Daniel Lynes
+.debuglog.old|Pixel|RGB, CMYK and HDR image editing and photo retouching for Windows, Mac OSX, Linux and others|http://www.kanzelsberger.com/pixel/|Daniel Lynes
+.gstreamer-0.10|GStreamer|GStreamer is a streaming-media framework, based on graphs of filters which operate on media data. Applications using this library can do anything from real-time sound processing to playing videos, and just about anything else media-related|http://sf.net/projects/gstreamer|Daniel Lynes
+.kchmviewer|kchmviewer|kchmviewer is a CHM (Winhelp) files viewer written on Qt/KDE. It can be build as a standalone Qt-based application, or a KDE application. The main point of kchmviewer is compatibility with non-English chm files, including most international charsets|http://sf.net/projects/kchmviewer/|Daniel Lynes
+.profile|Bash|an sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)|http://www.gnu.org/software/bash/|Daniel Lynes
+.spamassassin|The Apache SpamAssassin Project|The Powerful #1 Open-Source Spam Filter|http://spamassassin.apache.org/|Daniel Lynes
+.spumux|DVD Author|A simple set of tools to help you author a DVD. The idea is to be able to create menus, buttons, chapters, etc, but for now you can just take an mpeg stream (as created by mplex -f 8 from mjpegtools 1.6.0) and write it to DVD|http://dvdauthor.sf.net/|Daniel Lynes
+.procmailrc|procmail|Versatile e-mail processor||Henning Mersch
+.aMule|aMule|Emule clone for Linux|http://www.amule.org/|Sam Azab
+.blueman|Blueman Project|Bluetooth Manager|http://blueman.tuxfamily.org/|Sam Azab
+.adsmrc|ADSM|IBM Tivoli Backup||Henning Mersch
+.airsnortrc|Airsnort|Sniffing WLAN||Henning Mersch
+.alias|Bash|Common filename for command aliases - included by .bashrc||Henning Mersch
+.aspell.de.pws|ASpell|||Henning Mersch
+.aspell.en.pws|ASpell|||Henning Mersch
+.bash_history|Bash|Last commands of bash||Henning Mersch
+.bashrc|Bash|Bash configuration||Henning Mersch
+.camel_certs|Evolution|Certs of Evolution (not sure)||Henning Mersch
+.cantusrc|Cantus|MP3 Rename / Tagger||Henning Mersch
+.ccache|CCache|C Compiler cache application||Henning Mersch
+.com.oxygenxml|Oxygen|XML Editor||Henning Mersch
+.config|Various|RECURSIVE Anybody writing a special plugin for this subdir?||Henning Mersch
+.cvspass|CVS|CVS Repository list||Henning Mersch
+.ddd|ddd|The Data Display Debugger, a graphical debugger frontend||Henning Mersch
+.debtags|Debtags||http://debtags.alioth.debian.org/|Henning Mersch
+.defcon|Defcon|WorldWar Game|http://www.introversion.co.uk/defcon/|Henning Mersch
+.dia|Dia|Diagram Editor|dia.sf.net|Henning Mersch
+.dvipsrc|DVIPS|DVI to PS converter - config file||Henning Mersch
+.exrc|VIM|Base Config of the Ex editor, normallypart of vi|www.vim.org|Henning Mersch
+.fbhighscores|Frozen Bubble|||Henning Mersch
+.flexlmborrow|MathLab FlexLM|Borrowing of mathlab licences - config file for tool flexlm||Henning Mersch
+.GalleryRemote|Gallery|Config of the remote Java Pic upload Applett|gallery.sf.net|Henning Mersch
+.gcombust|gcombust|a gui for mkisofs/mkhybrid/cdda2wav/cdrecord/cdlabelgen|http://web.abo.fi/~jmunsin/gcombust/|Henning Mersch
+.gconfd|Gconf|RECURSIVE Anybody able to write a special plugin?||Henning Mersch
+.gimp-2.4|GIMP|Image manipulation program - config files||Henning Mersch
+.gkrellm2|Gkrellm|System monitor|http://members.dslextreme.com/users/billw/gkrellm/gkrellm.html|Henning Mersch
+.gnome|Gnome|Desktop management|http://www.gnome.org/|Henning Mersch
+.gnuplot_history|Gnuplot|Plotting tool - history of commands||Henning Mersch
+.gphoto|GPhoto|set of digital camera software applications|http://www.gphoto.org/|Henning Mersch
+.gqview|GQView|image browser|http://gqview.sourceforge.net/|Henning Mersch
+.gtkrc-1.2-gnome2|GTK|GHTK config file - version specific||Henning Mersch
+.GUIB|GUIB|Tcl GUI Builder||Henning Mersch
+.inkscape|Inkscape|Open Source vector graphics editor|http://www.inkscape.org/|Henning Mersch
+.ispell_ndeutsch|ISpell|config for german dictionary of ISpell||Henning Mersch
+.ivman|IVman|a generic handler for HAL events|http://ivman.sourceforge.net/|Henning Mersch
+.jap.conf|JAB|surf the internet anonymously and unobservably|http://anon.inf.tu-dresden.de/help/jap_help/de/help/japconf.html|Henning Mersch
+.jd_home|JDownloader|DirectHoster download tool|https://www.syncom.org/projects/jdownloader/wiki/JD_HOME|Henning Mersch
+.jfreereport|JFreeReport|free Java reporting library for embedded solutions|http://www.jfree.org/jfreereport/index.php|Henning Mersch
+.kderc|KDE|KDE Desktop environment|http://www.kde.org/|Henning Mersch
+.keepass|KeePass|Passwort manager||Henning Mersch
+.limewire|Limewire|P2P program||Henning Mersch
+.liquidwarrc|Liquidwar|Liquid War is a unique multiplayer wargame|http://www.ufoot.org/liquidwar|Henning Mersch
+.lpoptions|Printing system|lpoptions - display or set printer options and defaults|Henning Mersch.macromedia|Macromedia products
+.matlab|Matlab|Matlab config files||Henning Mersch
+.mcop|MCOP |Multimedia Communication Protocol - part of KDE||Henning Mersch
+.metacity|Metacity|A lightweight GTK2 based Window Manager||Henning Mersch
+.mixxx.cfg|Mixxx|DJ software|http://www.mixxx.org/|Henning Mersch
+.mozilla|Mozilla various products|RECURSIVE Config Files for various mozilla products - especially firefox- Anybody able to write a special plugin? |www.mozilla.org|Henning Mersch
+.musicextras|MusicExtras Lib|Music manangement library - used by different programs|http://musicextras.divineinvasion.net/|Henning Mersch
+.muttrc|Mutt|The classic Mail User Agent :-) |www.mutt.org|Henning Mersch
+.mysql_history|Mysql|Mysql Client history file||Henning Mersch
+.nbi|Netbeans|Netbeans IDE - installer |http://www.netbeans.org/|Henning Mersch
+.netbeans|Netbeans|Netbeans IDE - general config files|http://www.netbeans.org/|Henning Mersch
+.prokyon3|Prokyon3|music manager and tag editor for Unix|http://prokyon3.sourceforge.net/|Henning Mersch
+.qt|QT|QT grafical toolkit||Henning Mersch
+.realplayerrc|Realplayer|Config for realplayer||Henning Mersch
+.Scilab|Scilab|The open source platform for numerical computation|http://www.scilab.org/|Henning Mersch
+.signature|Mail signature|Used by many mail programs as default for writing emails||Henning Mersch
+.smb.cnf|Samba|user specific Samba config||Henning Mersch
+.sudo_as_admin_successful|System|system storing info ||Henning Mersch
+.swp|unkown|Swap file?||Henning Mersch
+.synce|SynCE|provide a means of communication with a Windows Mobile device from a computer running Linux|http://www.synce.org/moin/|Henning Mersch
+.tclshrc|Tcl|Tclsh - interpreter for Tcl as shell - config files||Henning Mersch
+.thumbnails|various|anyone info about which programms do this?||Henning Mersch
+.tkcvs-picklists|TkCVS|CVS Frontend (also SVN) - config||Henning Mersch
+.Trash||||Henning Mersch
+.unison|Unison|File synchronizer|http://www.cis.upenn.edu/~bcpierce/unison/|Henning Mersch
+.vim|VIM|VI improved config dir|vim.org|Henning Mersch
+.vimrc|VIM|ViImproved config file|vim.org|Henning Mersch
+.vlc|VLC Player| multimedia player and streamer||Henning Mersch
+.w3m|W3M|Browser config files||Henning Mersch
+.wine|Wine|Windows Emulator||Henning Mersch.wireshark
+.xboing-scores|XBoing|blockout type game where you have a paddle which you control to bounce a ball around the game zone|http://www.techrescue.org/xboing/|Henning Mersch
+.xcompmgrrc|XComp Manager|X Composition-Manager||Henning Mersch
+.xdvirc|XDvi|Dvi Viewer||Henning Mersch
+.xfigrc|XFig|XFig - grafic program||Henning Mersch
+.xmess|XMess|Emulator Frontend||Henning Mersch
+.xmms|XMMS|Multimedia player ||Henning Mersch
+.xsession|X11|Started on login||Henning Mersch
+.xsession-errors|X11|Errors during login session||Henning Mersch
+.any2dvdrc|Any2DVD|A script to transform PC multimedia file(s) in any format, into a DVD complete with menus & suitable for playback on a standalone DVD player.|http://sf.net/projects/any2dvd/|Daniel Lynes
+.aptitude|Aptitude|High level interface to the Debian package manager|http://www.debian.org/doc/manuals/apt-howto/|Daniel Lynes
+.cpan|Perl|Comprehensive Perl Archive Network|http://www.cpan.org/|Daniel Lynes
+.dvdstyler|DVD Styler|cross-platform DVD authoring application that makes possible for video enthusiasts to create professional-looking DVDs|http://www.dvdstyler.de/|Daniel Lynes
+.elinks|ELinks|an advanced and well-established feature-rich text mode web (HTTP/FTP/..) browser|http://elinks.cz/|Daniel Lynes
+.gimp-2.2|Gimp 2.2|GIMP is the GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. It works on many operating systems, in many languages.|http://www.gimp.org/|Daniel Lynes
+.gnome2_private|GNOME|The Free Software Desktop Project|http://www.gnome.org/|Daniel Lynes
+.nessusrc|Nessus|the Network Vulnerability Scanner|http://www.nessus.org/nessus/|Daniel Lynes
+.nessusrc.cert|Nessus|the Network Vulnerability Scanner - certs|http://www.nessus.org/nessus/|Daniel Lynes
+.pixel|Pixel|RGB, CMYK and HDR image editing and photo retouching for Windows, Mac OSX, Linux and others|http://www.kanzelsberger.com/pixel/|Daniel Lynes
+.recently-used|OpenOffice.org|Recently opened document list for OpenOffice|http://www.openoffice.org/|Daniel Lynes
+.scim|SCIM|The Smart Common Input Method platform (SCIM), is an input method platform supporting more than thirty languages (CJK and many European languages) for POSIX-style operating systems including Linux and BSD|http://sf.net/projects/scim|Daniel Lynes
+.feed2imap.cache|Feed2Imap|feed aggregator (RSS/Atom) which puts items on a IMAP mail server|http://home.gna.org/feed2imap/|Henning Mersch
+.feed2imap.cache.lock|Feed2Imap|feed aggregator (RSS/Atom) which puts items on a IMAP mail server|http://home.gna.org/feed2imap/|Henning Mersch
+.feed2imaprc|Feed2Imap|feed aggregator (RSS/Atom) which puts items on a IMAP mail server|http://home.gna.org/feed2imap/|Henning Mersch
+.avidemux|Avidemux|Video Editing/Encoder|http://avidemux.org/|Sam Azab
+.devede|DeVeDe|DVD Author|http://www.rastersoft.com/programas/devede.html|Sam Azab
+.electricsheep|Electricsheep|Screensaver|http://www.electricsheep.org/|Sam Azab
+.conky|conky|Conky is a free, light-weight system monitor for X, that displays any information on your desktop. Conky is licensed under the GPL and runs on Linux and BSD.|http://conky.sourceforge.net/|Michael Powers
+.alunn.news|alunn|System tray notification applet for Arch Linux updates and news|http://nedrebo.org/code/alunn|jose1711 (Jozef Riha)
+.aldorc|aldo|Aldo is a GPL morse code learning tool|http://www.nongnu.org/aldo|dpflug
+.amsn|aMSN|A free clone of MSN Messenger|http://www.amsn-project.net|dpflug
+.audacity-data|Audacity|A GPL sound recorder and editor|http://audacity.sourceforge.net|dpflug
+.celestiarc|Celestia|A real-time 3D space simulation|http://www.shatters.net/celestia|dpflug
+.crack-attack|Crack Attack|free OpenGL game based on the Super Nintendo classic Tetris Attack|http://aluminumangel.org/attack|dpflug
+.e|Enlightenment|A beautiful window manager that is easy on system resources|http://www.enlightenment.org/|dpflug
+.ecore|Enlightenment|A beautiful window manager that is easy on system resources|http://www.enlightenment.org|dpflug
+.esd_auth|Enlightened Sound Daemon|Deprecated sound mixing daemon for Enlightenment and GNOME|http://www.tux.org/~ricdude/overview.html|dpflug
+.fillets-ng|Fish Fillets NG|A port of a puzzle game starring 2 fish|http://fillets.sourceforge.net/|dpflug
+.glob2|Globulation 2|Unique RTS game that minimizes micro-management by automatically assigning tasks to units|http://www.globulation2.org/|dpflug
+.gnomesword|Xiphos|Deprecated dot directory. Gnomesword has been renamed to Xiphos and directory should be renamed to .xiphos|http://xiphos.org|dpflug
+.gnucash|GnuCash|Gnome personal finance manager|http://www.gnucash.org|dpflug
+.gpsdrive|GpsDrive|Free car, bike, plane, etc navigation system|http://www.gpsdrive.de|dpflug
+.irssi|irssi|Modular text mode IRC client with Perl scripting|http://irssi.org/|dpflug
+.xiphos|Xiphos|GTK cross-platform Bible study tool|http://xiphos.org|dpflug
+.mbscore|Moon-buggy|Simple ASCII game of jumping craters and shooting rocks|http://seehuhn.de/comp/moon-buggy|dpflug
+.rtorrent|rTorrent|Ncurses BitTorrent client based on libTorrent|http://libtorrent.rakshasa.no|dpflug
+.screenrc|GNU screen|The most useful program a terminal junkie could ever find|http://www.gnu.org/software/screen|dpflug
+.weechat|WeeChat|Lightweight and extensible console IRC client|http://weechat.flashtux.org|dpflug
+.wesnoth1.6|Battle for Wesnoth|Turn-based strategy game in a fantasy world|http://www.wesnoth.org|dpflug
+.aurvote|aurvote|Tool to vote packages from the Arch User Repository (AUR) to the community repo of Arch Linux|http://archlinux.fr|dpflug
+.cmus|cmus|very feature-rich ncurses-based music player|http://cmus.sourceforge.net/|dpflug
+.ecryptfs|eCryptfs|POSIX-compliant enterprise-class stacked cryptographic filesystem for Linux|http://ecryptfs.sourceforge.net|dpflug
+.fehrc|Feh|Image viewer, montage/collage creator, background setter, thumbnail browser, etc|http://linuxbrit.co.uk/feh/|dpflug
+.gimp-2.6|GIMP|GNU Image Manipulation Program|http://gimp.org|dpflug
+.htoprc|htop|Interactive process viewer with more details than top|http://htop.sourceforge.net/|dpflug
+.mutt|mutt|Small but very powerful text-based mail client|http://www.mutt.org|dpflug
+.Private|eCryptfs|POSIX-compliant enterprise-class stacked cryptographic filesystem for Linux|http://ecryptfs.sourceforge.net|dpflug
+.rtorrent.rc|rTorrent|Ncurses BitTorrent client based on libTorrent|http://libtorrent.rakshasa.no|dpflug
+.stellarium|Stellarium|Planetarium software to generate realistic skies|http://www.stellarium.org|dpflug
+.sword|The SWORD Project|free Bible software|http://www.crosswire.org/sword|dpflug
+.thunderbird|Mozilla Thunderbird|Standalone Mail/News reader|http://www.mozillamessaging.com/en-US/thunderbird/|dpflug
+.appcfg_cookies|Google App Engine||http://code.google.com/p/googleappengine/|Henning Mersch
+.eteks|Company eTeks, e.g. SweetHome3D|Possibly collection of software from this company|www.eteks.com|Henning Mersch
+.gegl-0.0|GEGL|stands for Generic Graphics Library and is a graph based image |http://git.gnome.org/browse/gegl/|Henning Mersch
+.OpenLieroX|OpenLieroX|xtremely addictive realtime worms shoot-em-up|www.openlierox.net|Henning Mersch
+.arenalive|Arena Live|Quake like Browser based Shooter|http://arenalive.zexos.org/|Henning Mersch
+.chatgpt.conf|chatgpt.sh|SHell wrapper for text and chatc completions, DALL-E, Whisper, and awesome-chatgpt-prompts(-zh)|https://gitlab.com/fenixdragao/shellchatgpt|4ndr0666
