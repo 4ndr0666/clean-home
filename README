@@ -1,21 +1,18 @@
-CleanHome ...clean your $HOME the easy way!
-Homepage: http://cleanhome.sourceforge.net
--------------------------------------------
-CleanHome - cleans up users $HOME directory by analyzing "." config-files/directories 
-against a collaborative maintained database.
-Its pluggable approach makes it easy to develop various extensions.
- For example extensions could provide general information about the investigated .-File/Dir 
+# "CleanHome" by Henning Mersch -- http://www.henning-mersch.de.
+
+## **Adaptation** and corrections for a dead and broken package
+
+### It essentially cleans up your $HOME dir by taking a initial inventory of every single item you have in it. It then maintains this database locally, and tracks 
+all changes in the dir. It then offers 4 services ranging from the ability to analyzing, archive, audit and use the net to find out what a file is.
+
+---
+Its written in perl obviously and makes it easy to develop your own functions and extensions really allowing you to make the tools you own. I has a good 
+basis for a high usefull utility and service. Highly recommended! For example extensions could provide general information about the investigated .-File/Dir 
 or could process a directory in a very special way 
 (e.g. clean up Browser cache in .mozilla upon users request). 
-
-A list of currently existing plugins and further information is accessible via
-the project website: http://cleanhome.sourceforge.net
 
 Usage:
 ------
 No Installation, No configfiles, No pollution of your system!
 Just call "cleanhome.pl" from a shell.
 
-Author:
--------
-Henning Mersch -- http://www.henning-mersch.de
